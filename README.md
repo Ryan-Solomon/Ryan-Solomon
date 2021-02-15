@@ -1,4 +1,4 @@
-Hi, I'm Ryan Solomon. I'm a UI Engineer at Unite Genomics in the bay area. 
+Hi, I'm Ryan. I'm a UI Engineer at Unite Genomics in the bay area. 
 
 My Timeline {
 <br>
