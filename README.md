@@ -1,4 +1,4 @@
-Hi, I'm Ryan. I'm a UI Engineer at Unite Genomics in the bay area. 
+Hi, I'm Ryan. I'm a UI Engineer at Unite Genomics. 
 
 My Timeline {
 <br>
@@ -12,7 +12,7 @@ Feb 2021 => Hired by Unite Genomics as a UI Engineer
 
 Interests {
 <br>
-React, React Native, TypeScript, Styled Components, Chakra UI, and all things frontend engineering
+React, React Native, TypeScript, Styled Components, Chakra UI, and all things engineering
 <br>
 }
 
