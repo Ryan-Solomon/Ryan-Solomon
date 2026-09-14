@@ -32,4 +32,4 @@ Build things that leave the world better than I found it.
 
 - **Email:** ryan@ryansolomon.io
 - **Website:** [ryansolomon.io](http://www.ryansolomon.io)
-- **LinkedIn:** [linkedin.com/in/ryan-solomon-32b4121b3](https://www.linkedin.com/in/ryan-solomon-32b4121b3)
+- **LinkedIn:** [linkedin.com/in/ryan-solomon-32b4121b3](www.linkedin.com/in/ryanjsolomon)
