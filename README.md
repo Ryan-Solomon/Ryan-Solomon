@@ -1,6 +1,6 @@
 # Hi, I'm Ryan 👋
 
-**I work at Close.**
+**Senior Frontend Engineer at Close**
 
 Previously, I helped build and modernize a production healthcare platform serving 1,000+ users at Unite Genomics, working across frontend architecture, full-stack development, and production AI.
 
@@ -12,7 +12,7 @@ Previously, I helped build and modernize a production healthcare platform servin
 - **March 2020** — COVID happened, so I taught myself how to code
 - **Feb 2021** — Hired by Unite Genomics as a UI Engineer
 - **At Unite Genomics** — Grew from frontend development into full-stack and architectural ownership across React, Django/DRF, PostgreSQL, production AI, and EHR integrations
-- **Present** — Working at Close
+- **Oct 2026 to Present** — Senior Frontend Engineer at Close
 
 ## 🛠️ Highlights from Unite Genomics
 
