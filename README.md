@@ -12,6 +12,7 @@ Previously, I helped build and modernize a production healthcare platform servin
 - **March 2020** — COVID happened, so I taught myself how to code
 - **Feb 2021** — Hired by Unite Genomics as a UI Engineer
 - **At Unite Genomics** — Grew from frontend development into full-stack and architectural ownership across React, Django/DRF, PostgreSQL, production AI, and EHR integrations
+- **Present** — Working at Close
 
 ## 🛠️ Highlights from Unite Genomics
 
